@@ -1,0 +1,6 @@
+.app-control-frame{ 
+    display: inline;
+    text-align: left;
+    margin: 20px;       
+    background-color: rgb(235, 235, 235)
+}
